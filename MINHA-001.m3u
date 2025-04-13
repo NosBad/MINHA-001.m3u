@@ -21,7 +21,7 @@ http://kobe.kaseline.shop:2095/live/sportv/chunks.m3u8?token=1744557881_a337d0b8
 http://kobe.kaseline.shop:2095/live/espn/chunks.m3u8?token=1744557881_c352e2ca6d0be249f09a3ea7a6fb130f59a6993c
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="ESPN-op02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF68bCf3Wy7c8Z-Aam1cQ4rT-F6zOuWVqs14kSA6dGbtQhRsE8oPzN7gE&s=10" group-title="FUTEBOL-APP", ESPN-op02
 http://kobe.kaseline.shop:2095/live5/espn/chunks.m3u8?token=1744557881_4dc98c11c15b496c91d83721ac78c94ed20af0ce
-EXTINF:-1 tvg-id="FUTEBOL" tvg-name="ESPN 4-op01" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest?cb=20220119222338&path-prefix=pt-br" group-title="FUTEBOL-APP", FUTEBOL 11-AAP
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="ESPN 4-op01" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest?cb=20220119222338&path-prefix=pt-br" group-title="FUTEBOL-APP", FUTEBOL 11-AAP
 http://kobe.kaseline.shop:2095/live/espn4/chunks.m3u8?token=1744557881_e0a1827c89958d46a909d69a2cd3c8acb4492b73
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="REDETV-op01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8ajk_6vbPasoQyFF6BExsJReFIJgRVg4oIraJhLNliDINR-68hM_guA&s=10" group-title="FUTEBOL-APP", REDETV-op01
 http://kobe.kaseline.shop:2095/live5/redetv/chunks.m3u8?token=1744557881_229a42fba5affa0c9c84d20a9dca3fce2cb3666f
