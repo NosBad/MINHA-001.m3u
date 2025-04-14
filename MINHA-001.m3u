@@ -101,13 +101,13 @@ http://kobe.kaseline.shop:2095/live5/espn6/chunks.m3u8?token=1744681160_818e5497
 http://kobe.kaseline.shop:2095/live5/bandsports/chunks.m3u8?token=1744642985_0733c0ec4aa0ce6dce28a497f1ae251941e3c7f7
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="BANDSPORTS-op02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFVqiTYjd57_P4JGycWJxn1Vo1_Lep_HI1IpjgcGsaATJQGFYmz5gPkM&s=10" group-title="FUTEBOL-APP",BANDSPORTS-op02
 http://kobe.kaseline.shop:2095/live/bandsports/chunks.m3u8?token=1744642985_626c055cdde3aeccd9d2bef41b4a393f94bd150e
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL FUT-op01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInlpSi-ndfJHPWzc8E4HMCgEoDDGbHfLX1TPmkb8SoP3hER4hS0I6lFw&s=10" group-title="FUTEBOL-APP",CANAL FUT-op01
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUT TV-op01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInlpSi-ndfJHPWzc8E4HMCgEoDDGbHfLX1TPmkb8SoP3hER4hS0I6lFw&s=10" group-title="FUTEBOL-APP",FUT TV-op01
 http://kobe.kaseline.shop:2095/live3/stlatv1/chunks.m3u8?token=1744640936_51f444fa2570ab680917db2acf211083d7e8076d
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL FUT-op02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInlpSi-ndfJHPWzc8E4HMCgEoDDGbHfLX1TPmkb8SoP3hER4hS0I6lFw&s=10" group-title="FUTEBOL-APP",CANAL FUT-op02
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUT TV-op02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInlpSi-ndfJHPWzc8E4HMCgEoDDGbHfLX1TPmkb8SoP3hER4hS0I6lFw&s=10" group-title="FUTEBOL-APP",FUT TV-op02
 http://kobe.kaseline.shop:2095/live3/stlatv1/chunks.m3u8?token=1744680234_b7a30995a481e9b898f301995d12356956a012aa
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL FUT-op03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInlpSi-ndfJHPWzc8E4HMCgEoDDGbHfLX1TPmkb8SoP3hER4hS0I6lFw&s=10" group-title="FUTEBOL-APP",CANAL FUT-op04
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUT TV-op03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInlpSi-ndfJHPWzc8E4HMCgEoDDGbHfLX1TPmkb8SoP3hER4hS0I6lFw&s=10" group-title="FUTEBOL-APP",FUT TV-op04
 http://kobe.kaseline.shop:2095/live/tnt/chunks.m3u8?token=1744642477_5046b4000436d2ea4c8d3ae1fe64f01f09e2e7f1
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL FUT-op04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInlpSi-ndfJHPWzc8E4HMCgEoDDGbHfLX1TPmkb8SoP3hER4hS0I6lFw&s=10" group-title="FUTEBOL-APP",CANAL FUT-op04
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="FUT TV-op04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInlpSi-ndfJHPWzc8E4HMCgEoDDGbHfLX1TPmkb8SoP3hER4hS0I6lFw&s=10" group-title="FUTEBOL-APP",FUT TV-op04
 http://kobe.kaseline.shop:2095/live/space/chunks.m3u8?token=1744642985_cebe2924270601cdf5e765694177f8c8f87e8ad0
 #EXTINF:-1 tvg-id="APP" tvg-name="GLOBO SP 1-op01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfKFxK03ZK68OCNYNBkLcifKVI6JDfC8tQREAVwQ1SzOxytr9J5r-2vJc&s=10" group-title="APP",GLOBO SP 1-op01
 http://kobe.kaseline.shop:2095/live3/globo_saopaulo/chunks.m3u8?token=1744640936_c6811ac65a06a2ad49b1894cee7178e9bb5a0089
