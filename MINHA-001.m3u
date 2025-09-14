@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="PREMIERE CLUBES-op01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSrfv1I3Wt6LlLAUHJmhECYxBGyyzHtGamakDhqkozqHQrp2hSTIKLtsk&s=10" group-title="FUTEBOL-APP", PREMIERE CLUBES-op01
-http://kobe.kaseline.shop:2095/live3/premiereclubes/chunks.m3u8?token=1744557881_6157fd4c20efed412190209e47d8e29d52dd30e6
+http://kobe.kaseline.shop:2095/live3/stlatv1/chunks.m3u8?token=1757963982_7472e3c92d29fd790512d9ab0b6b1cb1850faf8d
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="PREMIERE CLUBES-op02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSrfv1I3Wt6LlLAUHJmhECYxBGyyzHtGamakDhqkozqHQrp2hSTIKLtsk&s=10" group-title="FUTEBOL-APP", PREMIERE CLUBES-op02
 http://kobe.kaseline.shop:2095/live/premiereclubes/chunks.m3u8?token=1744557881_bf9adeaea5f457711ad47f5032ba56c4e524eeb6
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="PREMIERE CLUBES-op03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSrfv1I3Wt6LlLAUHJmhECYxBGyyzHtGamakDhqkozqHQrp2hSTIKLtsk&s=10" group-title="FUTEBOL-APP", PREMIERE CLUBES-op03
