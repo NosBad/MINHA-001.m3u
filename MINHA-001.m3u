@@ -66,9 +66,9 @@ http://kobe.kaseline.shop:2095/live3/sportv3/chunks.m3u8?token=1744647322_5977fb
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="SPORTV 3-op02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD0pG0SciqW3r-7MpCSMWF6kLBDcBEEd1f0eZOiessI2PVgSUsAxkb8yM&s=10" group-title="FUTEBOL-APP",SPORTV 3-op02
 http://kobe.kaseline.shop:2095/live3/sportv3/chunks.m3u8?token=1744681160_ea47a910727f447c91c260274db93677cb030481
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="ESPN-op01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF68bCf3Wy7c8Z-Aam1cQ4rT-F6zOuWVqs14kSA6dGbtQhRsE8oPzN7gE&s=10" group-title="FUTEBOL-APP", ESPN-op01
-http://kobe.kaseline.shop:2095/live/espn/chunks.m3u8?token=1744557881_c352e2ca6d0be249f09a3ea7a6fb130f59a6993c
+http://kobe.kaseline.shop:2095/live/espn/chunks.m3u8?token=1758329468_7819f723ebc721d85ce0321faae5197c3d5707e9
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="ESPN-op02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF68bCf3Wy7c8Z-Aam1cQ4rT-F6zOuWVqs14kSA6dGbtQhRsE8oPzN7gE&s=10" group-title="FUTEBOL-APP", ESPN-op02
-http://kobe.kaseline.shop:2095/live5/espn/chunks.m3u8?token=1744557881_4dc98c11c15b496c91d83721ac78c94ed20af0ce
+http://kobe.kaseline.shop:2095/live5/espn/chunks.m3u8?token=1758329468_83e0683d7a801bf62070daf5e28bffe39494e431
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="ESPN-op03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF68bCf3Wy7c8Z-Aam1cQ4rT-F6zOuWVqs14kSA6dGbtQhRsE8oPzN7gE&s=10" group-title="FUTEBOL-APP", ESPN-op03
 http://kobe.kaseline.shop:2095/live5/espn/chunks.m3u8?token=1744640566_1055092d48292cbbb8274a7ddf67dd458b005fcc
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="ESPN-op04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF68bCf3Wy7c8Z-Aam1cQ4rT-F6zOuWVqs14kSA6dGbtQhRsE8oPzN7gE&s=10" group-title="FUTEBOL-APP", ESPN-op04
