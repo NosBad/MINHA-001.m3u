@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-01" tvg-logo="flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp (450×450) https://share.google/VeMaukQKpqcs48xmf" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-01
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-01" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-01
 http://kobe.kaseline.shop:2095/live3/premiereclubes/chunks.m3u8?token=1770853481_a28b9c505c741bbcff4eec3a850a4ab7fb9f0bc3
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-02" tvg-logo="flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp (450×450) https://share.google/VeMaukQKpqcs48xmf" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-02
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-02" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-02
 http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1770853481_2cdc08a41bd8d00a87549d44a5a5c47d07028814
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-03" tvg-logo="flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp (450×450) https://share.google/VeMaukQKpqcs48xmf" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-03
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-03" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-03
 http://kobe.kaseline.shop:2095/live/premiereclubes/chunks.m3u8?token=1770853481_bef15631c30e23a39a29ffa19ea328672ca32606
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-04" tvg-logo="flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp (450×450) https://share.google/VeMaukQKpqcs48xmf" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-04
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-04" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-04
 http://kobe.kaseline.shop:2095/live/premiereclubes/chunks.m3u8?token=1770854141_82da35d39e497587a8b3cb5587cbe6f7161cf225
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-05" tvg-logo="flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp (450×450) https://share.google/VeMaukQKpqcs48xmf" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-05
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-05" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-05
 http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1770854141_921b66c5156a882b1258472ca71aae9d346be917
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-06" tvg-logo="flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp (450×450) https://share.google/VeMaukQKpqcs48xmf" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-06
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-06" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-06
 http://kobe.kaseline.shop:2095/live/sportv/chunks.m3u8?token=1770854141_57618b85759e3eb1feabd91c425d7df8f3909255
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-07" tvg-logo="flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp (450×450) https://share.google/VeMaukQKpqcs48xmf" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-07
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-07" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-07
 
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-08" tvg-logo="flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp (450×450) https://share.google/VeMaukQKpqcs48xmf" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-08
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-08" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-08
 
-#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-09" tvg-logo="flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp (450×450) https://share.google/VeMaukQKpqcs48xmf" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-09
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-09" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-09
 
