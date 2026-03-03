@@ -16,4 +16,11 @@ http://kobe.kaseline.shop:2095/live3/espn/chunks.m3u8?token=1772238150_2e0c0b71a
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-08" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-08
 http://kobe.kaseline.shop:2095/live/espn/chunks.m3u8?token=1772238150_53818ae64577a6b0d91778698f25c8044b0c82d2
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-09" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-09
+http://kobe.kaseline.shop:2095/live3/premiereclubes/chunks.m3u8?token=1772582066_fef0de10bacd51e2b552db24b0e51122a4502ef8
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-10" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-10
+http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1772582066_4357d621e1c1ee98b98792c1766c998380a37eb8
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-11" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-11
+http://kobe.kaseline.shop:2095/live/premiereclubes/chunks.m3u8?token=1772582066_38db3f1a5618c9256dc6bb844f1e2cfe2d1fb913
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-12" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-12
 
+#EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-13" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-13
