@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-01" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-01
-http://kobe.kaseline.shop:2095/live3/premiereclubes/chunks.m3u8?token=1770853481_a28b9c505c741bbcff4eec3a850a4ab7fb9f0bc3
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1774047082_e1c21b0b6fae395f395ce2e62831444695cab2c4
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-02" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-02
-http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1770853481_2cdc08a41bd8d00a87549d44a5a5c47d07028814
+http://needsorinletsgo.store.global.prod.fastly.net/live/premiereclubes/play2.m3u8?token=1774047082_6da09f394c2d63c228370e791390a58ed879f1b9
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-03" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-03
 http://kobe.kaseline.shop:2095/live/premiereclubes/chunks.m3u8?token=1770853481_bef15631c30e23a39a29ffa19ea328672ca32606
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-04" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-04
