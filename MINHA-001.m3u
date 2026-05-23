@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-01" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-01
-http://needsorinletsgo.store.global.prod.fastly.net/live3/premiere4/play2.m3u8?token=1779146389_572021d58c1209595c9003fa9025dab5ec363a50
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1779666137_3bdff8c5b1300a813c20def45a7b7df1cafccf1c
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-02" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-02
-http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv/play2.m3u8?token=1779146389_9d635add490d0d0e6760f25c7efb6b2b756f9bed
+http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv/play2.m3u8?token=1779666137_2c5617d79786e7c24ae43d424b6fffb26f9201dc
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-03" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-03
-http://needsorinletsgo.store.global.prod.fastly.net/live3/x_sportv/play2.m3u8?token=1779146389_010782c27e2a56ca5c48ece5fc26f0455cc0b9f3
+http://needsorinletsgo.store.global.prod.fastly.net/live3/x_premiereclubes/play2.m3u8?token=1779666137_6afa3a445b7b7d71dbf485269d04b31eafaa137f
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-04" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-04
 http://kobe.kaseline.shop:2095/live/premiereclubes/chunks.m3u8?token=1770854141_82da35d39e497587a8b3cb5587cbe6f7161cf225
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-05" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-05
