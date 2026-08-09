@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-01" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-01
-http://needsorinletsgo.store.global.prod.fastly.net/live3/stlatv1/play2.m3u8?token=1785452596_2b7db30de63d90bcbbdea21c73e547bf5a07b97d
+http://needsorinletsgo.store.global.prod.fastly.net/live3/premiereclubes/play2.m3u8?token=1786405636_753f3e5ca99ff10da8495c91f5cea1196a19ba82
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-02" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-02
 http://needsorinletsgo.store.global.prod.fastly.net/live3/sportv/play2.m3u8?token=1779666137_2c5617d79786e7c24ae43d424b6fffb26f9201dc
 #EXTINF:-1 tvg-id="FUTEBOL" tvg-name="CANAL DE FUTEBOL-03" tvg-logo="https://conteudo.imguol.com.br/c/parceiros/19/2020/06/30/flatv-canal-oficial-do-flamengo-reproducao-1593534631191_v2_450x450.jpg.webp" group-title="FUTEBOL-APP", CANAL DE FUTEBOL-03
